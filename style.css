@@ -1,0 +1,14 @@
+li {
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.delete-button {
+    padding: 5px 10px;
+    cursor: pointer;
+} 
+.container {
+    background-image: linear-gradient(to bottom right, red, yellow);
+}
